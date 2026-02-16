@@ -27,9 +27,11 @@ The experiment analyzes:
 * Maximum drawdown
 * Sharpe ratio
 
-📎 See notebook: notebooks/$100_portfolio_experiment.ipynb
+✍️ Blog post: []
 
-### 🛠 Tools & Libraries
+📓 Notebook: notebooks/$100_Portfolio_Experiment.ipynb
+
+## 🛠 Tools & Libraries
 
 * Python
 * pandas
@@ -37,6 +39,6 @@ The experiment analyzes:
 * matplotlib
 * yfinance
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 All projects in this repository are for educational and research purposes only.
