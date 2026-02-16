@@ -27,7 +27,7 @@ The experiment analyzes:
 * Maximum drawdown
 * Sharpe ratio
 
-✍️ Blog post: []
+✍️ Blog post: [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/100-portfolio-experiment-43d778f87cbb)
 
 📓 Notebook: notebooks/$100_Portfolio_Experiment.ipynb
 
