@@ -10,6 +10,8 @@ The projects focus on:
 * Diversification studies
 * Quantitative finance experiments
 
+---
+
 ## 📂 Projects
 
 ### 1️⃣ $100 Portfolio Experiment
@@ -31,6 +33,8 @@ The experiment analyzes:
 
 📓 Notebook: notebooks/$100_Portfolio_Experiment.ipynb
 
+---
+
 ## 🛠 Tools & Libraries
 
 * Python
@@ -39,6 +43,21 @@ The experiment analyzes:
 * matplotlib
 * yfinance
 
+---
+
 ## ⚠️ Disclaimer
 
 All projects in this repository are for educational and research purposes only.
+
+---
+
+## 👤 Author
+
+**Basak Kaya**  
+MEng Student, Mechanical & Industrial Engineering  
+University of Toronto  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/basak-kaya-3372b11b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV4Y8htGGRVaSSy9uZR4zTg%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KayaBasak)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001)
+
