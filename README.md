@@ -1,1 +1,42 @@
 # Finance
+
+This repository contains finance-related experiments, simulations, and data-driven analyses implemented in Python.
+
+The projects focus on:
+
+* Portfolio backtesting
+* Risk-return analysis
+* Volatility and drawdown modeling
+* Diversification studies
+* Quantitative finance experiments
+
+## 📂 Projects
+
+### 1️⃣ $100 Portfolio Experiment
+
+A backtesting study comparing:
+
+* Global market exposure (VT)
+* Tech-heavy exposure (QQQ)
+* 50/50 diversified allocation
+
+The experiment analyzes:
+
+* Total and annualized returns
+* Volatility
+* Maximum drawdown
+* Sharpe ratio
+
+📎 See notebook: notebooks/$100_portfolio_experiment.ipynb
+
+### 🛠 Tools & Libraries
+
+* Python
+* pandas
+* NumPy
+* matplotlib
+* yfinance
+
+### ⚠️ Disclaimer
+
+All projects in this repository are for educational and research purposes only.
